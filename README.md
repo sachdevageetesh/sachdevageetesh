@@ -100,29 +100,14 @@ Not a full résumé, just the shape of the work:
 * Turning messy ops into clean product systems
 * Using AI as a real product operating layer
 
----
-
-```text
-I don’t think great product people are feature managers.
-
-They are system thinkers.
-
-They understand users, incentives, constraints, data, operations, and execution.
-
-AI does not replace that judgment.
-It raises the ceiling for people who already know how to think.
-```
-
----
 
 <div align="center">
 
 ### Building practical products at the edge of AI, workflows, and real-world systems.
 
-[AI Operating System](https://ai-operating-system-orpin.vercel.app/) · [GitHub](https://github.com/sachdevageetesh)
+[AI Operating System](https://ai-operating-system-orpin.vercel.app/) 
 
 </div>
-::: ​​
 
 <div align="center">
 <br>
